@@ -5,7 +5,8 @@ In this Repo I scrape some data from School website for given school code.
 **Website:**
 
 > http://schoolreportcards.in/SRC-New/AdvanceSearch/AdvanceSearch.aspx
-> Sample School code for demo 7090620309 search this on search box
+
+> Sample School code for demo 07030626712 paste this on search box
 
 ### Concept
 First with the help of automation script search for school data from website with school affiliation code then with the help of PyAutoGUI the cursor automaticallly go to the desired location and copy the data from there and put it to a file 
@@ -43,7 +44,7 @@ warnings.filterwarnings("ignore")
 data=pd.read_excel("School Code.xlsx")    #import file with affiliation number in it
 ```
 ```
-aff_num=list(data['AffiliationNo'])  # create python list of aff num
+aff_num=list(data['AffiliationNo'])  # create python list of aff num or school code
 ```
 ```
 codes=[]            #filter out the affiliation numbers 
