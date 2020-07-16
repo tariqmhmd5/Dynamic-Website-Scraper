@@ -8,6 +8,10 @@ In this Repo I scrape some data from School website for given school code.
 
 > Sample School code for demo 07030626712 paste this on search box
 
+
+## **Demo**
+![alt text](https://raw.githubusercontent.com/tariqmhmd5/Dynamic-Website-Scraper/master/gif.gif)
+
 ### Concept
 First with the help of automation script search for school data from website with school affiliation code then with the help of PyAutoGUI the cursor automaticallly go to the desired location and copy the data from there and put it to a file 
 
