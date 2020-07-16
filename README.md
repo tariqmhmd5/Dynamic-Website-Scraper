@@ -5,6 +5,7 @@ In this Repo I scrape some data from School website for given school code.
 **Website:**
 
 > http://schoolreportcards.in/SRC-New/AdvanceSearch/AdvanceSearch.aspx
+> Sample School code for demo 7090620309 search this on search box
 
 ### Concept
 First with the help of automation script search for school data from website with school affiliation code then with the help of PyAutoGUI the cursor automaticallly go to the desired location and copy the data from there and put it to a file 
