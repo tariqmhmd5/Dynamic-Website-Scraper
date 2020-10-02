@@ -6,7 +6,7 @@ In this Repo I scrape some data from School website for given school code.
 
 > http://schoolreportcards.in/SRC-New/AdvanceSearch/AdvanceSearch.aspx
 
-> Sample School code for demo 07030626712 paste this on search box
+> Sample School code for Demo 07030626712 paste this on search box
 
 
 ## **Demo**
